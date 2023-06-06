@@ -4,7 +4,7 @@ da matéria de programação estruturada da Universidade Católica de Brasília 
 Componetes do grupo: 
 
 Vinícius Leão \n
-Gustavo Horestes \n
+Gustavo Horestee \n
 Leonardo Ribeiro \n
 
 # Lista3-Algoritimos-Estrututiraada-UCB
